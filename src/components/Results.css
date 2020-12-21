@@ -1,0 +1,7 @@
+.results{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    background-image: linear-gradient(to right top, #020810, #001319, #001b19, #052013, #1b2405);
+}
